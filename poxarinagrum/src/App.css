@@ -1,0 +1,22 @@
+.App{
+  text-align: center;
+}
+
+img{
+  width: 150px;
+  height: 100px;
+
+}
+.ant-modal-content{
+  width: 700px;
+  background: linear-gradient(cornflowerblue,cadetblue);
+}
+.ant-input{
+  width: 500px;
+}
+.ant-btn{
+  margin-top: 10px;
+}
+.write{
+  font-weight: bold;
+}
